@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="white_trans">#99FFFFFF</color>
+    <color name="dark_gray">#FF909090</color>
+    <color name="dark_gray_2">#6C6C6C</color>
+    <color name="gray">#FFDDDDDD</color>
+    <color name="pinkish_gray">#c8c8c8</color>
+    <color name="pressed">#404040</color>
+    <color name="gold">#D8B762</color>
+    <color name="silver">#A9AAAC</color>
+    <color name="platinum">#A0A6B6</color>
+    <color name="pale_grey">#f4f6f9</color>
 </resources>

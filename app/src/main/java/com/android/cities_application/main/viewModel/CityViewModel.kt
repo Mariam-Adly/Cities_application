@@ -20,7 +20,7 @@ class CityViewModel @Inject constructor(private val repository: CityRepository) 
         fetchData()
     }
 
-    private fun fetchData() {
+     fun fetchData() {
         _cities.value = repository.getCities()
     }
 }
