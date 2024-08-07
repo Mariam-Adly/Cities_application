@@ -65,4 +65,6 @@ dependencies {
     implementation("androidx.fragment:fragment-ktx:1.5.4")
     implementation("com.airbnb.android:lottie:5.0.3")
     implementation("com.google.android.gms:play-services-maps:18.0.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.2")
 }

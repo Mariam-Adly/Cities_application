@@ -7,7 +7,7 @@
     tools:context=".main.view.MainFragment">
 
     <androidx.appcompat.widget.SearchView
-        android:id="@+id/search_view"
+        android:id="@+id/filter_city"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_margin="20dp"
@@ -26,7 +26,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/search_view"
+        app:layout_constraintTop_toBottomOf="@id/filter_city"
         />
 
 
